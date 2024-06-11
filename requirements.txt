@@ -1,0 +1,10 @@
+# langchain
+# openai
+# huggingface_hub
+# python-dotenv
+fastapi==0.85.1
+openai==1.10.0
+uvicorn==0.27.0.post1
+gunicorn==21.2.0
+langchain==0.1.4
+langchain-openai==0.0.5
